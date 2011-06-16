@@ -112,6 +112,7 @@ NERDTreeOptions	NERD_tree.txt	/*NERDTreeOptions*
 NERDTreeRender()	NERD_tree.txt	/*NERDTreeRender()*
 NERD_tree.txt	NERD_tree.txt	/*NERD_tree.txt*
 ResetSnippets()	snipMate.txt	/*ResetSnippets()*
+Tabular.txt	Tabular.txt	/*Tabular.txt*
 [%	matchit.txt	/*[%*
 ]%	matchit.txt	/*]%*
 b:match_col	matchit.txt	/*b:match_col*
@@ -162,6 +163,7 @@ g:CommandTCursorRightMap	command-t.txt	/*g:CommandTCursorRightMap*
 g:CommandTCursorStartMap	command-t.txt	/*g:CommandTCursorStartMap*
 g:CommandTDeleteMap	command-t.txt	/*g:CommandTDeleteMap*
 g:CommandTMatchWindowAtTop	command-t.txt	/*g:CommandTMatchWindowAtTop*
+g:CommandTMatchWindowReverse	command-t.txt	/*g:CommandTMatchWindowReverse*
 g:CommandTMaxDepth	command-t.txt	/*g:CommandTMaxDepth*
 g:CommandTMaxFiles	command-t.txt	/*g:CommandTMaxFiles*
 g:CommandTMaxHeight	command-t.txt	/*g:CommandTMaxHeight*
@@ -254,6 +256,12 @@ surround-mappings	surround.txt	/*surround-mappings*
 surround-replacements	surround.txt	/*surround-replacements*
 surround-targets	surround.txt	/*surround-targets*
 surround.txt	surround.txt	/*surround.txt*
+tabular	Tabular.txt	/*tabular*
+tabular-intro	Tabular.txt	/*tabular-intro*
+tabular-scripting	Tabular.txt	/*tabular-scripting*
+tabular-toc	Tabular.txt	/*tabular-toc*
+tabular-walkthrough	Tabular.txt	/*tabular-walkthrough*
+tabular.vim	Tabular.txt	/*tabular.vim*
 tcomment#Comment()	tcomment.txt	/*tcomment#Comment()*
 tcomment#CommentAs()	tcomment.txt	/*tcomment#CommentAs()*
 tcomment#DefineType()	tcomment.txt	/*tcomment#DefineType()*
